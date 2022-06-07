@@ -59,7 +59,7 @@ export default {
       mode: 'default', // 或 'simple'
       toolbarConfig,
       editorConfig,
-      handleCreated
+      handleCreated,
     };
   }
 }
